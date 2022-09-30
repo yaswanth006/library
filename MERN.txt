@@ -1,0 +1,15 @@
+npm init -y: creates common package.joson
+npm install i <list of modules>: adds dependencies in package.json
+npm i --save-dev nodemo : restarts the server automatically when changes are made in the project
+/* write the scripts 
+ "scripts": {
+    "start": "node server.js" // to run the prod server
+    "devStart": "nodemon script.js" // to run locally
+  },
+  
+start project: npm run devStart
+  
+important links:
+var, let and const: https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+relationships b/w multiple schemas:
+https://dev.to/oluseyeo/how-to-create-relationships-with-mongoose-and-node-js-11c8
