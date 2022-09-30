@@ -13,3 +13,12 @@ important links:
 var, let and const: https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 relationships b/w multiple schemas:
 https://dev.to/oluseyeo/how-to-create-relationships-with-mongoose-and-node-js-11c8
+
+GIT:
+ git init - to initilise the git
+ git add .
+ git commit -m "msg"
+ create a repository in git
+ git remote add origin https://github.com/yaswanth006/library.git
+git branch -M main
+git push -u origin main
